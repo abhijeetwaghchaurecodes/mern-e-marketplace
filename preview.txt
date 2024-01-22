@@ -1,0 +1,59 @@
+preview and the first level idea of the project is as follows---
+
+
+INDUSTRY LEVEL (MERN) project
+all like REAL ESTATE, BROKERS, ETC websites
+
+using the latest versions of MERN
+
+REACT.JS and TailwindCSS will be used here
+
+will use the latest versions of the REACT ROUTER DOM to create routes and dynamic pages
+
+we will work  on AUTHENTICATION FUNCNALITIES
+[1] EMAIL and PASSWORD  -- (JSON tokens)
+[2] Google Auth with the email
+
+for better state management , we will use the REDUX TOOLKIT --- to manage the global states easier
+to create the user profile page will be protected at the CLIENT and the USER side
+
+abilities to the USER ---
+
+update the:-
+[1] USERNAME
+[2] PASSWORD
+[3] EMAIL
+[4] USERS CAN modify their profile images
+
+will include all the CRUD operations (Creation, Reading, Update, Delete)
+all using the mongoDB database
+
+
+each USER will have the abilities to ----
+[1] to create new LISTINGS of PRODUCTS/SERVICES
+[2] show the DISCOUNTED and ORIGINAL prices
+[3] more options to the USER
+[4] upload upto 6 images of the product
+[5] images can be managed later as well, including UPDATING and DELETION
+
+USER will see the LISTINGS through just clicking on the profile image of the listing as well
+
+
+each LISTING will have a convenient slider to slide through the product and
+various helpful CONTACT options with the product OWNERS/BUYERS with a messaging facility to contact teh OWNERS
+
+
+
+for USERS/CLIENTS---
+advanced search functionalities with filter options [rent/sale, rent, sale, offer, etc]
+SEARCH by TITLE
+sort-by-latest OR price high-to-low OR price-low-to-high OR oldest OR newest
+using the SEARCH QUERY techniques while working with the mongoDB
+
+
+will host the website at the RENDER (Inc.) for free to showcase the project
+
+
+
+additional---
+adding a PAYMENT GATEWAY to further proceed the TRANSACTION
